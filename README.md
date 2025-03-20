@@ -1,2 +1,1 @@
-
-Test
+# Happy coding!
