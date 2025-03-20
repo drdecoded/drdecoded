@@ -22,6 +22,6 @@ Always exploring new security tools, methodologies, and best practices to streng
 
 <h3 align="left">Brainjection Medium:</h3>
 <p align="left">
-<a href="https://medium.com/@brainjection.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drdecoded" height="30" width="40" /></a>
+<a href="https://medium.com/@brainjection" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drdecoded" height="30" width="40" /></a>
 </p>
 
