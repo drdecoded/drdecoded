@@ -18,10 +18,5 @@ I'm diving deep into **Cybersecurity**, focusing on **Pentesting, Security Audit
 - **DevOps & Automation** – Securing CI/CD pipelines and infrastructure.  
 - **Threat Analysis & Incident Response** – Staying one step ahead of cyber threats.  
 
-Always exploring new security tools, methodologies, and best practices to strengthen digital defenses. 
-
-<h3 align="left">Brainjection Medium:</h3>
-<p align="left">
-<a href="https://medium.com/@brainjection" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drdecoded" height="30" width="40" /></a>
-</p>
+Always exploring new security tools, methodologies, and best practices to strengthen digital defenses.
 
